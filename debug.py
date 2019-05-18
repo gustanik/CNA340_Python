@@ -11,4 +11,4 @@ def lone_sum(a, b, c):
    else:
        return a+b+c
 
-print(lone_sum(11, 22, 33))
+print(lone_sum(12, 13, 14))
